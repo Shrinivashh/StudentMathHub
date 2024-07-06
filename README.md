@@ -46,7 +46,7 @@ Find the ASCII values of characters:
 
 ## How to Use
 
-1. **Visit the Website:** Go to [StudentMathHub](http://127.0.0.1:5000/).
+1. **Run the project in terminal, and enter app.py** Use the path as where it is stored.
 2. **Navigate to the Desired Tool:** Use the navigation menu to select the tool you need.
 3. **Input Values:** Enter the required values in the input fields.
 4. **Get Results:** Click the submit button to get instant results.
