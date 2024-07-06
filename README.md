@@ -89,6 +89,4 @@ For any questions or suggestions, please contact us at [hunashikattishrinivas@gm
 
 Thank you for using **StudentMathHub**! We hope this tool helps you in your mathematical journey.
 
----
-
-Feel free to customize this README file further based on your preferences and specific features of your website.
+--
